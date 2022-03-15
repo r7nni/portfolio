@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width-device-width,initial-scale 1.0" >
+<link rel="stylesheet" href="style.2.0.css">
+<title> portfolio landing page</title>
+</head>
+<body>
+<nav class="navbar">
+    <div class="logo">PORTFOLIO</div>
+    <ul>
+        <li><a href="1">home</a></li>
+        <li><a href="2">about</a></li>
+        <li><a href="3">project</a></li>
+        <li><a href="4">contact</a></li>
+    </ul>
+</nav>
+
+<p>
+    i am an amateur web designer and this is a startup
+</p>
+</body>
+</html>
+
+
